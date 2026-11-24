@@ -1,0 +1,1 @@
+fix: revert the 3 AM hotfix that fixed the 3 AM hotfix — prod is down, tests are green, and I have already told myself this is fine (it is not fine)
